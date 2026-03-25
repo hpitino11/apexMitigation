@@ -29,7 +29,7 @@
                     <div class="col-xl-8">
                         <div class="blog-details__content">
                             <div class="blog-details__content-img1">
-                                <img src="{{ asset('/assets/img/blog/blog-details-img1.jpg') }}" alt="">
+                                <img src="{{ asset('/assets/img/blog/blog-details-img1.jpg') }}" alt="" loading="lazy">
                             </div>
 
                             <div class="blog-details__content-text1">
@@ -53,13 +53,13 @@
                                 <div class="row">
                                     <div class="col-xl-6 col-lg-6 col-md-6">
                                         <div class="blog-details__content-img2-single">
-                                            <img src="{{ asset('/assets/img/blog/blog-details-img2.jpg') }}" alt="">
+                                            <img src="{{ asset('/assets/img/blog/blog-details-img2.jpg') }}" alt="" loading="lazy">
                                         </div>
                                     </div>
 
                                     <div class="col-xl-6 col-lg-6 col-md-6">
                                         <div class="blog-details__content-img2-single">
-                                            <img src="{{ asset('/assets/img/blog/blog-details-img3.jpg') }}" alt="">
+                                            <img src="{{ asset('/assets/img/blog/blog-details-img3.jpg') }}" alt="" loading="lazy">
                                         </div>
                                     </div>
                                 </div>
@@ -109,7 +109,7 @@
                                 <h3 class="comment-one__title">Comments (2)</h3>
                                 <div class="comment-one__single">
                                     <div class="comment-one__image">
-                                        <img src="{{ asset('/assets/img/blog/blog-details-img4.jpg') }}" alt="">
+                                        <img src="{{ asset('/assets/img/blog/blog-details-img4.jpg') }}" alt="" loading="lazy">
                                     </div>
                                     <div class="comment-one__content">
                                         <h3>Saiful Islam</h3>
@@ -121,7 +121,7 @@
 
                                 <div class="comment-one__single">
                                     <div class="comment-one__image">
-                                        <img src="{{ asset('/assets/img/blog/blog-details-img5.jpg') }}" alt="">
+                                        <img src="{{ asset('/assets/img/blog/blog-details-img5.jpg') }}" alt="" loading="lazy">
                                     </div>
                                     <div class="comment-one__content">
                                         <h3>Jhon Smith</h3>
@@ -217,7 +217,7 @@
                                     <li>
                                         <div class="inner">
                                             <div class="img-box">
-                                                <img src="{{ asset('/assets/img/blog/sidebar-img1.jpg') }}" alt="">
+                                                <img src="{{ asset('/assets/img/blog/sidebar-img1.jpg') }}" alt="" loading="lazy">
                                             </div>
 
                                             <div class="content-box">
@@ -231,7 +231,7 @@
                                     <li>
                                         <div class="inner">
                                             <div class="img-box">
-                                                <img src="{{ asset('/assets/img/blog/sidebar-img2.jpg') }}" alt="">
+                                                <img src="{{ asset('/assets/img/blog/sidebar-img2.jpg') }}" alt="" loading="lazy">
                                             </div>
 
                                             <div class="content-box">
@@ -245,7 +245,7 @@
                                     <li>
                                         <div class="inner">
                                             <div class="img-box">
-                                                <img src="{{ asset('/assets/img/blog/sidebar-img3.jpg') }}" alt="">
+                                                <img src="{{ asset('/assets/img/blog/sidebar-img3.jpg') }}" alt="" loading="lazy">
                                             </div>
 
                                             <div class="content-box">

@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(sort -k2)",
+      "Bash(ls -lh /c/Users/hanna/Desktop/desktop/Work/Tyler_website/xafran/public/assets/css/*.css)",
+      "Bash(ls -lh /c/Users/hanna/Desktop/desktop/Work/Tyler_website/xafran/public/assets/js/*.js)",
+      "Bash(xargs ls:*)",
+      "Bash(ls -lh /c/Users/hanna/Desktop/desktop/Work/Tyler_website/xafran/public/assets/fonts/*.ttf /c/Users/hanna/Desktop/desktop/Work/Tyler_website/xafran/public/assets/fonts/*.woff*)"
+    ]
+  }
+}

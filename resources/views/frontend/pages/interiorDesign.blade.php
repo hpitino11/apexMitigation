@@ -30,7 +30,7 @@
                     <div class="col-xl-8">
                         <div class="services-details__content">
                             <div class="services-details__content-img1">
-                                <img src="{{ asset('/assets/img/service/services-details-img3.jpg') }}" alt="#">
+                                <img src="{{ asset('/assets/img/service/services-details-img3.jpg') }}" alt="#" loading="lazy">
                             </div>
 
                             <div class="text-box1">
@@ -97,7 +97,7 @@
                             </div>
 
                             <div class="services-details__content-img2">
-                                <img src="{{ asset('/assets/img/service/services-details-img2.jpg') }}" alt="#">
+                                <img src="{{ asset('/assets/img/service/services-details-img2.jpg') }}" alt="#" loading="lazy">
                             </div>
 
                             <div class="text-box3">

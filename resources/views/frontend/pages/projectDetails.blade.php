@@ -28,7 +28,7 @@
                 <div class="project-details__inner">
                     <div class="project-details-img">
                         <div class="inner">
-                            <img src="{{ asset('/assets/img/project/project-details-img1.jpg') }}" alt="">
+                            <img src="{{ asset('/assets/img/project/project-details-img1.jpg') }}" alt="" loading="lazy">
                         </div>
                     </div>
 

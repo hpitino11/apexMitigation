@@ -36,7 +36,7 @@
                                     <h2>XAFRAN</h2>
                                 </div>
                                 <div class="inner">
-                                    <img src="{{ asset('/assets/img/team/team-details-img1.jpg') }}" alt="">
+                                    <img src="{{ asset('/assets/img/team/team-details-img1.jpg') }}" alt="" loading="lazy">
                                 </div>
                             </div>
                         </div>

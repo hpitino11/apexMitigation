@@ -44,7 +44,7 @@
                                 <p>Collaborate Professionally.</p>
                                 <div class="table-header-bottom">
                                     <div class="icon-box">
-                                        <img src="{{ asset('/assets/img/icon/pricing-v1-icon1.jpg') }}" alt="">
+                                        <img src="{{ asset('/assets/img/icon/pricing-v1-icon1.jpg') }}" alt="" loading="lazy">
                                     </div>
 
                                     <div class="text-box">
@@ -128,7 +128,7 @@
                                 <p>Collaborate Professionally.</p>
                                 <div class="table-header-bottom">
                                     <div class="icon-box">
-                                        <img src="{{ asset('/assets/img/icon/pricing-v1-icon1.jpg') }}" alt="">
+                                        <img src="{{ asset('/assets/img/icon/pricing-v1-icon1.jpg') }}" alt="" loading="lazy">
                                     </div>
 
                                     <div class="text-box">
@@ -212,7 +212,7 @@
                                 <p>Collaborate Professionally.</p>
                                 <div class="table-header-bottom">
                                     <div class="icon-box">
-                                        <img src="{{ asset('/assets/img/icon/pricing-v1-icon1.jpg') }}" alt="">
+                                        <img src="{{ asset('/assets/img/icon/pricing-v1-icon1.jpg') }}" alt="" loading="lazy">
                                     </div>
 
                                     <div class="text-box">

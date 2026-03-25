@@ -30,7 +30,7 @@
                     <!--Start Service Two Single-->
                     <div class="col-xl-4 col-lg-4 wow animated fadeInUp" data-wow-delay="0.1s">
                         <div class="service-two__single">
-                            <div class="shape2"><img src="{{ asset('/assets/img/shape/service-v2-shape2.png') }}" alt=""></div>
+                            <div class="shape2"><img src="{{ asset('/assets/img/shape/service-v2-shape2.png') }}" alt="" loading="lazy"></div>
                             <div class="service-two__single-bg"
                                 style="background-image: url(assets/img/service/service-v2-single-bg.jpg);"></div>
                             <div class="service-two__single-icon">
@@ -52,7 +52,7 @@
                     <!--Start Service Two Single-->
                     <div class="col-xl-4 col-lg-4 wow animated fadeInUp" data-wow-delay="0.3s">
                         <div class="service-two__single">
-                            <div class="shape2"><img src="{{ asset('/assets/img/shape/service-v2-shape2.png') }}" alt=""></div>
+                            <div class="shape2"><img src="{{ asset('/assets/img/shape/service-v2-shape2.png') }}" alt="" loading="lazy"></div>
                             <div class="service-two__single-bg"
                                 style="background-image: url(assets/img/service/service-v2-single-bg.jpg);"></div>
                             <div class="service-two__single-icon">
@@ -74,7 +74,7 @@
                     <!--Start Service Two Single-->
                     <div class="col-xl-4 col-lg-4 wow animated fadeInUp" data-wow-delay="0.5s">
                         <div class="service-two__single">
-                            <div class="shape2"><img src="{{ asset('/assets/img/shape/service-v2-shape2.png') }}" alt=""></div>
+                            <div class="shape2"><img src="{{ asset('/assets/img/shape/service-v2-shape2.png') }}" alt="" loading="lazy"></div>
                             <div class="service-two__single-bg"
                                 style="background-image: url(assets/img/service/service-v2-single-bg.jpg);"></div>
                             <div class="service-two__single-icon">
@@ -149,101 +149,101 @@
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
                             <div class="img-box">
-                                <img src="{{ asset('/assets/img/brand/brand-v2-img1.png') }}" alt="#">
+                                <img src="{{ asset('/assets/img/brand/brand-v2-img1.png') }}" alt="#" loading="lazy">
                             </div>
 
                             <div class="img-box2">
-                                <img src="{{ asset('/assets/img/brand/brand-v2-img6.png') }}" alt="#">
+                                <img src="{{ asset('/assets/img/brand/brand-v2-img6.png') }}" alt="#" loading="lazy">
                             </div>
                         </div>
 
                         <div class="swiper-slide">
                             <div class="img-box">
-                                <img src="{{ asset('/assets/img/brand/brand-v2-img2.png') }}" alt="#">
+                                <img src="{{ asset('/assets/img/brand/brand-v2-img2.png') }}" alt="#" loading="lazy">
                             </div>
 
                             <div class="img-box2">
-                                <img src="{{ asset('/assets/img/brand/brand-v2-img7.png') }}" alt="#">
+                                <img src="{{ asset('/assets/img/brand/brand-v2-img7.png') }}" alt="#" loading="lazy">
                             </div>
                         </div>
 
                         <div class="swiper-slide">
                             <div class="img-box">
-                                <img src="{{ asset('/assets/img/brand/brand-v2-img3.png') }}" alt="#">
+                                <img src="{{ asset('/assets/img/brand/brand-v2-img3.png') }}" alt="#" loading="lazy">
                             </div>
 
                             <div class="img-box2">
-                                <img src="{{ asset('/assets/img/brand/brand-v2-img8.png') }}" alt="#">
+                                <img src="{{ asset('/assets/img/brand/brand-v2-img8.png') }}" alt="#" loading="lazy">
                             </div>
                         </div>
 
                         <div class="swiper-slide">
                             <div class="img-box">
-                                <img src="{{ asset('/assets/img/brand/brand-v2-img4.png') }}" alt="#">
+                                <img src="{{ asset('/assets/img/brand/brand-v2-img4.png') }}" alt="#" loading="lazy">
                             </div>
 
                             <div class="img-box2">
-                                <img src="{{ asset('/assets/img/brand/brand-v2-img9.png') }}" alt="#">
+                                <img src="{{ asset('/assets/img/brand/brand-v2-img9.png') }}" alt="#" loading="lazy">
                             </div>
                         </div>
 
                         <div class="swiper-slide">
                             <div class="img-box">
-                                <img src="{{ asset('/assets/img/brand/brand-v2-img5.png') }}" alt="#">
+                                <img src="{{ asset('/assets/img/brand/brand-v2-img5.png') }}" alt="#" loading="lazy">
                             </div>
 
                             <div class="img-box2">
-                                <img src="{{ asset('/assets/img/brand/brand-v2-img10.png') }}" alt="#">
+                                <img src="{{ asset('/assets/img/brand/brand-v2-img10.png') }}" alt="#" loading="lazy">
                             </div>
                         </div>
 
                         <div class="swiper-slide">
                             <div class="img-box">
-                                <img src="{{ asset('/assets/img/brand/brand-v2-img1.png') }}" alt="#">
+                                <img src="{{ asset('/assets/img/brand/brand-v2-img1.png') }}" alt="#" loading="lazy">
                             </div>
 
                             <div class="img-box2">
-                                <img src="{{ asset('/assets/img/brand/brand-v2-img6.png') }}" alt="#">
+                                <img src="{{ asset('/assets/img/brand/brand-v2-img6.png') }}" alt="#" loading="lazy">
                             </div>
                         </div>
 
                         <div class="swiper-slide">
                             <div class="img-box">
-                                <img src="{{ asset('/assets/img/brand/brand-v2-img2.png') }}" alt="#">
+                                <img src="{{ asset('/assets/img/brand/brand-v2-img2.png') }}" alt="#" loading="lazy">
                             </div>
 
                             <div class="img-box2">
-                                <img src="{{ asset('/assets/img/brand/brand-v2-img7.png') }}" alt="#">
+                                <img src="{{ asset('/assets/img/brand/brand-v2-img7.png') }}" alt="#" loading="lazy">
                             </div>
                         </div>
 
                         <div class="swiper-slide">
                             <div class="img-box">
-                                <img src="{{ asset('/assets/img/brand/brand-v2-img3.png') }}" alt="#">
+                                <img src="{{ asset('/assets/img/brand/brand-v2-img3.png') }}" alt="#" loading="lazy">
                             </div>
 
                             <div class="img-box2">
-                                <img src="{{ asset('/assets/img/brand/brand-v2-img8.png') }}" alt="#">
+                                <img src="{{ asset('/assets/img/brand/brand-v2-img8.png') }}" alt="#" loading="lazy">
                             </div>
                         </div>
 
                         <div class="swiper-slide">
                             <div class="img-box">
-                                <img src="{{ asset('/assets/img/brand/brand-v2-img4.png') }}" alt="#">
+                                <img src="{{ asset('/assets/img/brand/brand-v2-img4.png') }}" alt="#" loading="lazy">
                             </div>
 
                             <div class="img-box2">
-                                <img src="{{ asset('/assets/img/brand/brand-v2-img9.png') }}" alt="#">
+                                <img src="{{ asset('/assets/img/brand/brand-v2-img9.png') }}" alt="#" loading="lazy">
                             </div>
                         </div>
 
                         <div class="swiper-slide">
                             <div class="img-box">
-                                <img src="{{ asset('/assets/img/brand/brand-v2-img5.png') }}" alt="#">
+                                <img src="{{ asset('/assets/img/brand/brand-v2-img5.png') }}" alt="#" loading="lazy">
                             </div>
 
                             <div class="img-box2">
-                                <img src="{{ asset('/assets/img/brand/brand-v2-img10.png') }}" alt="#">
+                                <img src="{{ asset('/assets/img/brand/brand-v2-img10.png') }}" alt="#" loading="lazy">
                             </div>
                         </div>
                     </div>
@@ -259,17 +259,17 @@
                     <!--Start Why Choose Us One Img-->
                     <div class="col-xl-6 wow animated fadeInRight" data-wow-delay="0.1s">
                         <div class="why-choose-us-one__img">
-                            <div class="shape1"><img src="{{ asset('/assets/img/shape/why-choose-us-v1-shape1.png') }}" alt=""></div>
+                            <div class="shape1"><img src="{{ asset('/assets/img/shape/why-choose-us-v1-shape1.png') }}" alt="" loading="lazy"></div>
                             <ul>
                                 <li>
                                     <div class="img-box">
-                                        <img src="{{ asset('/assets/img/resource/why-choose-us-v1-img1.jpg') }}" alt="">
+                                        <img src="{{ asset('/assets/img/resource/why-choose-us-v1-img1.jpg') }}" alt="" loading="lazy">
                                     </div>
                                 </li>
 
                                 <li>
                                     <div class="img-box">
-                                        <img src="{{ asset('/assets/img/resource/why-choose-us-v1-img2.jpg') }}" alt="">
+                                        <img src="{{ asset('/assets/img/resource/why-choose-us-v1-img2.jpg') }}" alt="" loading="lazy">
                                     </div>
                                 </li>
                             </ul>
@@ -343,7 +343,7 @@
                     <!--Start Service One Single-->
                     <div class="col-xl-6 col-lg-6 wow animated fadeInUp" data-wow-delay="0.1s">
                         <div class="service-one__single">
-                            <div class="shape1"><img src="{{ asset('/assets/img/shape/service-v1-shape1.png') }}" alt=""></div>
+                            <div class="shape1"><img src="{{ asset('/assets/img/shape/service-v1-shape1.png') }}" alt="" loading="lazy"></div>
                             <div class="service-one__single-inner">
                                 <div class="count-text">01</div>
                                 <div class="icon-box">
@@ -365,7 +365,7 @@
                     <!--Start Service One Single-->
                     <div class="col-xl-6 col-lg-6 wow animated fadeInUp" data-wow-delay="0.2s">
                         <div class="service-one__single">
-                            <div class="shape1"><img src="{{ asset('/assets/img/shape/service-v1-shape1.png') }}" alt=""></div>
+                            <div class="shape1"><img src="{{ asset('/assets/img/shape/service-v1-shape1.png') }}" alt="" loading="lazy"></div>
                             <div class="service-one__single-inner">
                                 <div class="count-text">02</div>
                                 <div class="icon-box">
@@ -387,7 +387,7 @@
                     <!--Start Service One Single-->
                     <div class="col-xl-6 col-lg-6 wow animated fadeInUp" data-wow-delay="0.1s">
                         <div class="service-one__single">
-                            <div class="shape1"><img src="{{ asset('/assets/img/shape/service-v1-shape1.png') }}" alt=""></div>
+                            <div class="shape1"><img src="{{ asset('/assets/img/shape/service-v1-shape1.png') }}" alt="" loading="lazy"></div>
                             <div class="service-one__single-inner">
                                 <div class="count-text">03</div>
                                 <div class="icon-box">
@@ -409,7 +409,7 @@
                     <!--Start Service One Single-->
                     <div class="col-xl-6 col-lg-6 wow animated fadeInUp" data-wow-delay="0.2s">
                         <div class="service-one__single">
-                            <div class="shape1"><img src="{{ asset('/assets/img/shape/service-v1-shape1.png') }}" alt=""></div>
+                            <div class="shape1"><img src="{{ asset('/assets/img/shape/service-v1-shape1.png') }}" alt="" loading="lazy"></div>
                             <div class="service-one__single-inner">
                                 <div class="count-text">04</div>
                                 <div class="icon-box">
@@ -434,14 +434,14 @@
 
         <!--Start Feauture Three-->
         <section class="feauture-three">
-            <div class="shape1 float-bob-y"><img src="{{ asset('/assets/img/shape/feauture-v3-shape1.png') }}" alt=""></div>
+            <div class="shape1 float-bob-y"><img src="{{ asset('/assets/img/shape/feauture-v3-shape1.png') }}" alt="" loading="lazy"></div>
             <div class="container">
                 <div class="row">
                     <!--Start Feauture Three Img-->
                     <div class="col-xl-5 wow animated fadeInLeft" data-wow-delay="0.1s">
                         <div class="feauture-three__img">
                             <div class="inner clearfix">
-                                <img src="{{ asset('/assets/img/resource/feauture-v3-img1.jpg') }}" alt="">
+                                <img src="{{ asset('/assets/img/resource/feauture-v3-img1.jpg') }}" alt="" loading="lazy">
                             </div>
                         </div>
                     </div>

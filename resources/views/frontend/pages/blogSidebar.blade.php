@@ -33,7 +33,7 @@
                             <div class="blog-sidebar__single">
                                 <div class="blog-sidebar__single-img">
                                     <div class="inner">
-                                        <img src="{{ asset('/assets/img/blog/blog-sidebar-img1.jpg') }}" alt="">
+                                        <img src="{{ asset('/assets/img/blog/blog-sidebar-img1.jpg') }}" alt="" loading="lazy">
                                     </div>
                                 </div>
 
@@ -117,7 +117,7 @@
                                             <div class="swiper-slide">
                                                 <div class="single-img-box">
                                                     <div class="inner">
-                                                        <img src="{{ asset('/assets/img/blog/blog-sidebar-img2.jpg') }}" alt="">
+                                                        <img src="{{ asset('/assets/img/blog/blog-sidebar-img2.jpg') }}" alt="" loading="lazy">
                                                     </div>
                                                 </div>
                                             </div>
@@ -125,7 +125,7 @@
                                             <div class="swiper-slide">
                                                 <div class="single-img-box">
                                                     <div class="inner">
-                                                        <img src="{{ asset('/assets/img/blog/blog-sidebar-img2.jpg') }}" alt="">
+                                                        <img src="{{ asset('/assets/img/blog/blog-sidebar-img2.jpg') }}" alt="" loading="lazy">
                                                     </div>
                                                 </div>
                                             </div>
@@ -133,7 +133,7 @@
                                             <div class="swiper-slide">
                                                 <div class="single-img-box">
                                                     <div class="inner">
-                                                        <img src="{{ asset('/assets/img/blog/blog-sidebar-img2.jpg') }}" alt="">
+                                                        <img src="{{ asset('/assets/img/blog/blog-sidebar-img2.jpg') }}" alt="" loading="lazy">
                                                     </div>
                                                 </div>
                                             </div>
@@ -187,7 +187,7 @@
                             <div class="blog-sidebar__single">
                                 <div class="blog-sidebar__single-img">
                                     <div class="inner">
-                                        <img src="{{ asset('/assets/img/blog/blog-sidebar-img3.jpg') }}" alt="">
+                                        <img src="{{ asset('/assets/img/blog/blog-sidebar-img3.jpg') }}" alt="" loading="lazy">
                                     </div>
                                 </div>
 
@@ -227,7 +227,7 @@
                             <div class="blog-sidebar__single">
                                 <div class="blog-sidebar__single-img">
                                     <div class="inner">
-                                        <img src="{{ asset('/assets/img/blog/blog-sidebar-img4.jpg') }}" alt="">
+                                        <img src="{{ asset('/assets/img/blog/blog-sidebar-img4.jpg') }}" alt="" loading="lazy">
                                     </div>
                                 </div>
 
@@ -311,7 +311,7 @@
                                     <li>
                                         <div class="inner">
                                             <div class="img-box">
-                                                <img src="{{ asset('/assets/img/blog/sidebar-img1.jpg') }}" alt="">
+                                                <img src="{{ asset('/assets/img/blog/sidebar-img1.jpg') }}" alt="" loading="lazy">
                                             </div>
 
                                             <div class="content-box">
@@ -325,7 +325,7 @@
                                     <li>
                                         <div class="inner">
                                             <div class="img-box">
-                                                <img src="{{ asset('/assets/img/blog/sidebar-img2.jpg') }}" alt="">
+                                                <img src="{{ asset('/assets/img/blog/sidebar-img2.jpg') }}" alt="" loading="lazy">
                                             </div>
 
                                             <div class="content-box">
@@ -339,7 +339,7 @@
                                     <li>
                                         <div class="inner">
                                             <div class="img-box">
-                                                <img src="{{ asset('/assets/img/blog/sidebar-img3.jpg') }}" alt="">
+                                                <img src="{{ asset('/assets/img/blog/sidebar-img3.jpg') }}" alt="" loading="lazy">
                                             </div>
 
                                             <div class="content-box">

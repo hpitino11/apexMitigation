@@ -157,7 +157,7 @@
                                     <li>
                                         <div class="text-box">
                                             <div class="img-box">
-                                                <img src="{{ asset('/assets/img/shop/checkout-page-img1.jpg') }}" alt="#">
+                                                <img src="{{ asset('/assets/img/shop/checkout-page-img1.jpg') }}" alt="#" loading="lazy">
                                             </div>
                                             <div class="title-one">
                                                 <p>Mike and <br>

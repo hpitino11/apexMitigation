@@ -245,12 +245,12 @@
                             <div class="about-two__img1 wow fadeInLeft" data-wow-delay="200ms"
                                 data-wow-duration="1500ms">
                                 <div class="inner">
-                                    <img src="{{ asset('/assets/img/about/about-v2-img1.jpg') }}" alt="">
+                                    <img src="{{ asset('/assets/img/about/about-v2-img1.jpg') }}" alt="" loading="lazy">
                                 </div>
                             </div>
                             <div class="about-two__img2 wow fadeInRight" data-wow-delay="200ms"
                                 data-wow-duration="1500ms">
-                                <img src="{{ asset('/assets/img/about/about-v2-img2.jpg') }}" alt="">
+                                <img src="{{ asset('/assets/img/about/about-v2-img2.jpg') }}" alt="" loading="lazy">
                                 <div class="about-two__video-btn">
                                     <a href="https://www.youtube.com/watch?v=pVE92TNDwUk"
                                         class="about-two__icon video-popup">
@@ -295,10 +295,10 @@
                             <div class="about-two__content-bottom">
                                 <div class="author-box">
                                     <div class="img-box">
-                                        <img src="{{ asset('/assets/img/about/about-v2-img3.jpg') }}" alt="">
+                                        <img src="{{ asset('/assets/img/about/about-v2-img3.jpg') }}" alt="" loading="lazy">
                                     </div>
                                     <div class="signature">
-                                        <img src="{{ asset('/assets/img/about/signature-1.png') }}" alt="">
+                                        <img src="{{ asset('/assets/img/about/signature-1.png') }}" alt="" loading="lazy">
                                     </div>
                                 </div>
 
@@ -318,7 +318,7 @@
 
         <!--Start Service Two-->
         <section class="service-two">
-            <div class="shape1 float-bob-y"><img src="{{ asset('/assets/img/shape/service-v2-shape1.png') }}" alt=""></div>
+            <div class="shape1 float-bob-y"><img src="{{ asset('/assets/img/shape/service-v2-shape1.png') }}" alt="" loading="lazy"></div>
             <div class="container">
                 <div class="sec-title text-center">
                     <div class="sub-title">
@@ -330,7 +330,7 @@
                     <!--Start Service Two Single-->
                     <div class="col-xl-4 col-lg-4 wow animated fadeInUp" data-wow-delay="0.1s">
                         <div class="service-two__single">
-                            <div class="shape2"><img src="{{ asset('/assets/img/shape/service-v2-shape2.png') }}" alt=""></div>
+                            <div class="shape2"><img src="{{ asset('/assets/img/shape/service-v2-shape2.png') }}" alt="" loading="lazy"></div>
                             <div class="service-two__single-bg"
                                 style="background-image: url(assets/img/service/service-v2-single-bg.jpg);"></div>
                             <div class="service-two__single-icon">
@@ -352,7 +352,7 @@
                     <!--Start Service Two Single-->
                     <div class="col-xl-4 col-lg-4 wow animated fadeInUp" data-wow-delay="0.3s">
                         <div class="service-two__single">
-                            <div class="shape2"><img src="{{ asset('/assets/img/shape/service-v2-shape2.png') }}" alt=""></div>
+                            <div class="shape2"><img src="{{ asset('/assets/img/shape/service-v2-shape2.png') }}" alt="" loading="lazy"></div>
                             <div class="service-two__single-bg"
                                 style="background-image: url(assets/img/service/service-v2-single-bg.jpg);"></div>
                             <div class="service-two__single-icon">
@@ -374,7 +374,7 @@
                     <!--Start Service Two Single-->
                     <div class="col-xl-4 col-lg-4 wow animated fadeInUp" data-wow-delay="0.5s">
                         <div class="service-two__single">
-                            <div class="shape2"><img src="{{ asset('/assets/img/shape/service-v2-shape2.png') }}" alt=""></div>
+                            <div class="shape2"><img src="{{ asset('/assets/img/shape/service-v2-shape2.png') }}" alt="" loading="lazy"></div>
                             <div class="service-two__single-bg"
                                 style="background-image: url(assets/img/service/service-v2-single-bg.jpg);"></div>
                             <div class="service-two__single-icon">
@@ -412,7 +412,7 @@
                 <div swiper_scale_active class="swiper">
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
-                            <img src="{{ asset('/assets/img/project/project-v2-img1.jpg') }}" alt="#" />
+                            <img src="{{ asset('/assets/img/project/project-v2-img1.jpg') }}" alt="#" loading="lazy" />
                             <div class="overlay-content">
                                 <p>San Fransisco</p>
                                 <h2><a href="#">Hotel Joshna Villa</a></h2>
@@ -420,7 +420,7 @@
                         </div>
                         <div class="swiper-slide">
                             <div>
-                                <img src="{{ asset('/assets/img/project/project-v2-img2.jpg') }}" alt="#" />
+                                <img src="{{ asset('/assets/img/project/project-v2-img2.jpg') }}" alt="#" loading="lazy" />
                                 <div class="overlay-content">
                                     <p>San Fransisco</p>
                                     <h2><a href="#">Hotel Joshna Villa</a></h2>
@@ -428,35 +428,35 @@
                             </div>
                         </div>
                         <div class="swiper-slide">
-                            <img src="{{ asset('/assets/img/project/project-v2-img3.jpg') }}" alt="#" />
+                            <img src="{{ asset('/assets/img/project/project-v2-img3.jpg') }}" alt="#" loading="lazy" />
                             <div class="overlay-content">
                                 <p>San Fransisco</p>
                                 <h2><a href="#">Hotel Joshna Villa</a></h2>
                             </div>
                         </div>
                         <div class="swiper-slide">
-                            <img src="{{ asset('/assets/img/project/project-v2-img1.jpg') }}" alt="#" />
+                            <img src="{{ asset('/assets/img/project/project-v2-img1.jpg') }}" alt="#" loading="lazy" />
                             <div class="overlay-content">
                                 <p>San Fransisco</p>
                                 <h2><a href="#">Hotel Joshna Villa</a></h2>
                             </div>
                         </div>
                         <div class="swiper-slide">
-                            <img src="{{ asset('/assets/img/project/project-v2-img2.jpg') }}" alt="#" />
+                            <img src="{{ asset('/assets/img/project/project-v2-img2.jpg') }}" alt="#" loading="lazy" />
                             <div class="overlay-content">
                                 <p>San Fransisco</p>
                                 <h2><a href="#">Hotel Joshna Villa</a></h2>
                             </div>
                         </div>
                         <div class="swiper-slide">
-                            <img src="{{ asset('/assets/img/project/project-v2-img3.jpg') }}" alt="#" />
+                            <img src="{{ asset('/assets/img/project/project-v2-img3.jpg') }}" alt="#" loading="lazy" />
                             <div class="overlay-content">
                                 <p>San Fransisco</p>
                                 <h2><a href="#">Hotel Joshna Villa</a></h2>
                             </div>
                         </div>
                         <div class="swiper-slide">
-                            <img src="{{ asset('/assets/img/project/project-v2-img3.jpg') }}" alt="#" />
+                            <img src="{{ asset('/assets/img/project/project-v2-img3.jpg') }}" alt="#" loading="lazy" />
                             <div class="overlay-content">
                                 <p>San Fransisco</p>
                                 <h2><a href="#">Hotel Joshna Villa</a></h2>
@@ -509,7 +509,7 @@
                                 <p>Collaborate Professionally.</p>
                                 <div class="table-header-bottom">
                                     <div class="icon-box">
-                                        <img src="{{ asset('/assets/img/icon/pricing-v1-icon1.jpg') }}" alt="">
+                                        <img src="{{ asset('/assets/img/icon/pricing-v1-icon1.jpg') }}" alt="" loading="lazy">
                                     </div>
 
                                     <div class="text-box">
@@ -593,7 +593,7 @@
                                 <p>Collaborate Professionally.</p>
                                 <div class="table-header-bottom">
                                     <div class="icon-box">
-                                        <img src="{{ asset('/assets/img/icon/pricing-v1-icon1.jpg') }}" alt="">
+                                        <img src="{{ asset('/assets/img/icon/pricing-v1-icon1.jpg') }}" alt="" loading="lazy">
                                     </div>
 
                                     <div class="text-box">
@@ -677,7 +677,7 @@
                                 <p>Collaborate Professionally.</p>
                                 <div class="table-header-bottom">
                                     <div class="icon-box">
-                                        <img src="{{ asset('/assets/img/icon/pricing-v1-icon1.jpg') }}" alt="">
+                                        <img src="{{ asset('/assets/img/icon/pricing-v1-icon1.jpg') }}" alt="" loading="lazy">
                                     </div>
 
                                     <div class="text-box">
@@ -783,7 +783,7 @@
             </div>
             <div class="contact-one__pattern" style="background-image: url(assets/img/pattern/contact-v1-pattern.jpg);">
             </div>
-            <div class="contact-one__img"><img src="{{ asset('/assets/img/resource/contact-v1-img1.png') }}" alt=""></div>
+            <div class="contact-one__img"><img src="{{ asset('/assets/img/resource/contact-v1-img1.png') }}" alt="" loading="lazy"></div>
             <div class="container clearfix">
                 <div class="contact-one__inner">
                     <div class="contact-one__form wow animated fadeInRight" data-wow-delay="0.1s">
@@ -857,101 +857,101 @@
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
                             <div class="img-box">
-                                <img src="{{ asset('/assets/img/brand/brand-v2-img1.png') }}" alt="#">
+                                <img src="{{ asset('/assets/img/brand/brand-v2-img1.png') }}" alt="#" loading="lazy">
                             </div>
 
                             <div class="img-box2">
-                                <img src="{{ asset('/assets/img/brand/brand-v2-img6.png') }}" alt="#">
+                                <img src="{{ asset('/assets/img/brand/brand-v2-img6.png') }}" alt="#" loading="lazy">
                             </div>
                         </div>
 
                         <div class="swiper-slide">
                             <div class="img-box">
-                                <img src="{{ asset('/assets/img/brand/brand-v2-img2.png') }}" alt="#">
+                                <img src="{{ asset('/assets/img/brand/brand-v2-img2.png') }}" alt="#" loading="lazy">
                             </div>
 
                             <div class="img-box2">
-                                <img src="{{ asset('/assets/img/brand/brand-v2-img7.png') }}" alt="#">
+                                <img src="{{ asset('/assets/img/brand/brand-v2-img7.png') }}" alt="#" loading="lazy">
                             </div>
                         </div>
 
                         <div class="swiper-slide">
                             <div class="img-box">
-                                <img src="{{ asset('/assets/img/brand/brand-v2-img3.png') }}" alt="#">
+                                <img src="{{ asset('/assets/img/brand/brand-v2-img3.png') }}" alt="#" loading="lazy">
                             </div>
 
                             <div class="img-box2">
-                                <img src="{{ asset('/assets/img/brand/brand-v2-img8.png') }}" alt="#">
+                                <img src="{{ asset('/assets/img/brand/brand-v2-img8.png') }}" alt="#" loading="lazy">
                             </div>
                         </div>
 
                         <div class="swiper-slide">
                             <div class="img-box">
-                                <img src="{{ asset('/assets/img/brand/brand-v2-img4.png') }}" alt="#">
+                                <img src="{{ asset('/assets/img/brand/brand-v2-img4.png') }}" alt="#" loading="lazy">
                             </div>
 
                             <div class="img-box2">
-                                <img src="{{ asset('/assets/img/brand/brand-v2-img9.png') }}" alt="#">
+                                <img src="{{ asset('/assets/img/brand/brand-v2-img9.png') }}" alt="#" loading="lazy">
                             </div>
                         </div>
 
                         <div class="swiper-slide">
                             <div class="img-box">
-                                <img src="{{ asset('/assets/img/brand/brand-v2-img5.png') }}" alt="#">
+                                <img src="{{ asset('/assets/img/brand/brand-v2-img5.png') }}" alt="#" loading="lazy">
                             </div>
 
                             <div class="img-box2">
-                                <img src="{{ asset('/assets/img/brand/brand-v2-img10.png') }}" alt="#">
+                                <img src="{{ asset('/assets/img/brand/brand-v2-img10.png') }}" alt="#" loading="lazy">
                             </div>
                         </div>
 
                         <div class="swiper-slide">
                             <div class="img-box">
-                                <img src="{{ asset('/assets/img/brand/brand-v2-img1.png') }}" alt="#">
+                                <img src="{{ asset('/assets/img/brand/brand-v2-img1.png') }}" alt="#" loading="lazy">
                             </div>
 
                             <div class="img-box2">
-                                <img src="{{ asset('/assets/img/brand/brand-v2-img6.png') }}" alt="#">
+                                <img src="{{ asset('/assets/img/brand/brand-v2-img6.png') }}" alt="#" loading="lazy">
                             </div>
                         </div>
 
                         <div class="swiper-slide">
                             <div class="img-box">
-                                <img src="{{ asset('/assets/img/brand/brand-v2-img2.png') }}" alt="#">
+                                <img src="{{ asset('/assets/img/brand/brand-v2-img2.png') }}" alt="#" loading="lazy">
                             </div>
 
                             <div class="img-box2">
-                                <img src="{{ asset('/assets/img/brand/brand-v2-img7.png') }}" alt="#">
+                                <img src="{{ asset('/assets/img/brand/brand-v2-img7.png') }}" alt="#" loading="lazy">
                             </div>
                         </div>
 
                         <div class="swiper-slide">
                             <div class="img-box">
-                                <img src="{{ asset('/assets/img/brand/brand-v2-img3.png') }}" alt="#">
+                                <img src="{{ asset('/assets/img/brand/brand-v2-img3.png') }}" alt="#" loading="lazy">
                             </div>
 
                             <div class="img-box2">
-                                <img src="{{ asset('/assets/img/brand/brand-v2-img8.png') }}" alt="#">
+                                <img src="{{ asset('/assets/img/brand/brand-v2-img8.png') }}" alt="#" loading="lazy">
                             </div>
                         </div>
 
                         <div class="swiper-slide">
                             <div class="img-box">
-                                <img src="{{ asset('/assets/img/brand/brand-v2-img4.png') }}" alt="#">
+                                <img src="{{ asset('/assets/img/brand/brand-v2-img4.png') }}" alt="#" loading="lazy">
                             </div>
 
                             <div class="img-box2">
-                                <img src="{{ asset('/assets/img/brand/brand-v2-img9.png') }}" alt="#">
+                                <img src="{{ asset('/assets/img/brand/brand-v2-img9.png') }}" alt="#" loading="lazy">
                             </div>
                         </div>
 
                         <div class="swiper-slide">
                             <div class="img-box">
-                                <img src="{{ asset('/assets/img/brand/brand-v2-img5.png') }}" alt="#">
+                                <img src="{{ asset('/assets/img/brand/brand-v2-img5.png') }}" alt="#" loading="lazy">
                             </div>
 
                             <div class="img-box2">
-                                <img src="{{ asset('/assets/img/brand/brand-v2-img10.png') }}" alt="#">
+                                <img src="{{ asset('/assets/img/brand/brand-v2-img10.png') }}" alt="#" loading="lazy">
                             </div>
                         </div>
                     </div>
@@ -967,17 +967,17 @@
                     <!--Start Why Choose Us One Img-->
                     <div class="col-xl-6 wow animated fadeInRight" data-wow-delay="0.1s">
                         <div class="why-choose-us-one__img">
-                            <div class="shape1"><img src="{{ asset('/assets/img/shape/why-choose-us-v1-shape1.png') }}" alt=""></div>
+                            <div class="shape1"><img src="{{ asset('/assets/img/shape/why-choose-us-v1-shape1.png') }}" alt="" loading="lazy"></div>
                             <ul>
                                 <li>
                                     <div class="img-box">
-                                        <img src="{{ asset('/assets/img/resource/why-choose-us-v1-img1.jpg') }}" alt="">
+                                        <img src="{{ asset('/assets/img/resource/why-choose-us-v1-img1.jpg') }}" alt="" loading="lazy">
                                     </div>
                                 </li>
 
                                 <li>
                                     <div class="img-box">
-                                        <img src="{{ asset('/assets/img/resource/why-choose-us-v1-img2.jpg') }}" alt="">
+                                        <img src="{{ asset('/assets/img/resource/why-choose-us-v1-img2.jpg') }}" alt="" loading="lazy">
                                     </div>
                                 </li>
                             </ul>
@@ -1072,7 +1072,7 @@
                         <div class="blog-one__single">
                             <div class="blog-one__single-img">
                                 <div class="inner">
-                                    <img src="{{ asset('/assets/img/blog/blog-v1-img1.jpg') }}" alt="">
+                                    <img src="{{ asset('/assets/img/blog/blog-v1-img1.jpg') }}" alt="" loading="lazy">
                                     <div class="overlay-icon">
                                         <a href="#"><span class="icon-plus"></span></a>
                                     </div>
@@ -1102,7 +1102,7 @@
                         <div class="blog-one__single">
                             <div class="blog-one__single-img">
                                 <div class="inner">
-                                    <img src="{{ asset('/assets/img/blog/blog-v1-img2.jpg') }}" alt="">
+                                    <img src="{{ asset('/assets/img/blog/blog-v1-img2.jpg') }}" alt="" loading="lazy">
                                     <div class="overlay-icon">
                                         <a href="#"><span class="icon-plus"></span></a>
                                     </div>
@@ -1132,7 +1132,7 @@
                         <div class="blog-one__single">
                             <div class="blog-one__single-img">
                                 <div class="inner">
-                                    <img src="{{ asset('/assets/img/blog/blog-v1-img3.jpg') }}" alt="">
+                                    <img src="{{ asset('/assets/img/blog/blog-v1-img3.jpg') }}" alt="" loading="lazy">
                                     <div class="overlay-icon">
                                         <a href="#"><span class="icon-plus"></span></a>
                                     </div>

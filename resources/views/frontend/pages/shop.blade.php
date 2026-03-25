@@ -54,7 +54,7 @@
                     <div class="col-xl-4 col-lg-6 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s">
                         <div class="shop-page__single">
                             <div class="shop-page__single-img">
-                                <img src="{{ asset('/assets/img/shop/shop-page-img1.jpg') }}" alt="#">
+                                <img src="{{ asset('/assets/img/shop/shop-page-img1.jpg') }}" alt="#" loading="lazy">
                                 <div class="text">Sale</div>
                                 <div class="btn-box">
                                     <a href="#">ADD TO CART</a>
@@ -83,7 +83,7 @@
                     <div class="col-xl-4 col-lg-6 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s">
                         <div class="shop-page__single">
                             <div class="shop-page__single-img">
-                                <img src="{{ asset('/assets/img/shop/shop-page-img2.jpg') }}" alt="#">
+                                <img src="{{ asset('/assets/img/shop/shop-page-img2.jpg') }}" alt="#" loading="lazy">
 
                                 <div class="btn-box">
                                     <a href="#">ADD TO CART</a>
@@ -112,7 +112,7 @@
                     <div class="col-xl-4 col-lg-6 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s">
                         <div class="shop-page__single">
                             <div class="shop-page__single-img">
-                                <img src="{{ asset('/assets/img/shop/shop-page-img3.jpg') }}" alt="#">
+                                <img src="{{ asset('/assets/img/shop/shop-page-img3.jpg') }}" alt="#" loading="lazy">
                                 <div class="text">Sale</div>
                                 <div class="btn-box">
                                     <a href="#">ADD TO CART</a>
@@ -141,7 +141,7 @@
                     <div class="col-xl-4 col-lg-6 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s">
                         <div class="shop-page__single">
                             <div class="shop-page__single-img">
-                                <img src="{{ asset('/assets/img/shop/shop-page-img4.jpg') }}" alt="#">
+                                <img src="{{ asset('/assets/img/shop/shop-page-img4.jpg') }}" alt="#" loading="lazy">
                                 <div class="text">Sale</div>
                                 <div class="btn-box">
                                     <a href="#">ADD TO CART</a>
@@ -170,7 +170,7 @@
                     <div class="col-xl-4 col-lg-6 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s">
                         <div class="shop-page__single">
                             <div class="shop-page__single-img">
-                                <img src="{{ asset('/assets/img/shop/shop-page-img5.jpg') }}" alt="#">
+                                <img src="{{ asset('/assets/img/shop/shop-page-img5.jpg') }}" alt="#" loading="lazy">
 
                                 <div class="btn-box">
                                     <a href="#">ADD TO CART</a>
@@ -199,7 +199,7 @@
                     <div class="col-xl-4 col-lg-6 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s">
                         <div class="shop-page__single">
                             <div class="shop-page__single-img">
-                                <img src="{{ asset('/assets/img/shop/shop-page-img6.jpg') }}" alt="#">
+                                <img src="{{ asset('/assets/img/shop/shop-page-img6.jpg') }}" alt="#" loading="lazy">
                                 <div class="text">Sale</div>
                                 <div class="btn-box">
                                     <a href="#">ADD TO CART</a>
@@ -228,7 +228,7 @@
                     <div class="col-xl-4 col-lg-6 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s">
                         <div class="shop-page__single">
                             <div class="shop-page__single-img">
-                                <img src="{{ asset('/assets/img/shop/shop-page-img7.jpg') }}" alt="#">
+                                <img src="{{ asset('/assets/img/shop/shop-page-img7.jpg') }}" alt="#" loading="lazy">
                                 <div class="text">Sale</div>
                                 <div class="btn-box">
                                     <a href="#">ADD TO CART</a>
@@ -257,7 +257,7 @@
                     <div class="col-xl-4 col-lg-6 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s">
                         <div class="shop-page__single">
                             <div class="shop-page__single-img">
-                                <img src="{{ asset('/assets/img/shop/shop-page-img8.jpg') }}" alt="#">
+                                <img src="{{ asset('/assets/img/shop/shop-page-img8.jpg') }}" alt="#" loading="lazy">
 
                                 <div class="btn-box">
                                     <a href="#">ADD TO CART</a>
@@ -286,7 +286,7 @@
                     <div class="col-xl-4 col-lg-6 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s">
                         <div class="shop-page__single">
                             <div class="shop-page__single-img">
-                                <img src="{{ asset('/assets/img/shop/shop-page-img9.jpg') }}" alt="#">
+                                <img src="{{ asset('/assets/img/shop/shop-page-img9.jpg') }}" alt="#" loading="lazy">
                                 <div class="text">Sale</div>
                                 <div class="btn-box">
                                     <a href="#">ADD TO CART</a>

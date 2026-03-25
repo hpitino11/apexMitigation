@@ -24,13 +24,13 @@
                                 <source src="{{ asset('assets/video/hero.mp4') }}" type="video/mp4">
                             </video>
                         </div>
-                        <div class="shape1"><img src="{{ asset('/assets/img/shape/slider-v1-shape1.png') }}" alt=""></div>
+                        <div class="shape1"><img src="{{ asset('/assets/img/shape/slider-v1-shape1.png') }}" alt="" loading="lazy"></div>
 
                         <div class="container">
                             <div class="main-slider-one__single">
                                 <div class="main-slider-one__content">
                                     <div class="shape2 float-bob-x"><img src="{{ asset('/assets/img/shape/slider-v1-shape2.png') }}"
-                                            alt=""></div>
+                                            alt="" loading="lazy"></div>
                                     <h2>Apex</h2>
                                     <h2>Mitigation</h2>
                                     <div class="btn-box">
@@ -96,14 +96,14 @@
 
         <!--Start About One-->
         <section class="about-one">
-            <div class="shape1 float-bob-y"><img src="{{ asset('/assets/img/shape/about-v1-shape1.png') }}" alt=""></div>
+            <div class="shape1 float-bob-y"><img src="{{ asset('/assets/img/shape/about-v1-shape1.png') }}" alt="" loading="lazy"></div>
             <div class="container">
                 <div class="row">
                     <!--Start About One Img-->
                     <div class="col-xl-5 wow animated fadeInRight" data-wow-delay="0.1s">
                         <div class="about-one__img">
                             <div class="inner">
-                                <img src="{{ asset('/assets/img/about/about-v1-img1.jpg') }}" alt="">
+                                <img src="{{ asset('/assets/img/about/about-v1-img1.jpg') }}" alt="" loading="lazy">
                             </div>
                            <div class="experience-box">
                         <div class="counter-box">
@@ -170,7 +170,7 @@ and restore safe humidity levels inside your home or business. </p>
                     <!--Start Service One Single-->
                     <div class="col-xl-6 col-lg-6 wow animated fadeInUp" data-wow-delay="0.1s">
                         <div class="service-one__single">
-                            <div class="shape1"><img src="{{ asset('/assets/img/shape/service-v1-shape1.png') }}" alt=""></div>
+                            <div class="shape1"><img src="{{ asset('/assets/img/shape/service-v1-shape1.png') }}" alt="" loading="lazy"></div>
                             <div class="service-one__single-inner">
                                 <div class="count-text">01</div>
                                 <div class="icon-box">
@@ -231,7 +231,7 @@ and restore safe humidity levels inside your home or business. </p>
                     <!--Start Service One Single-->
                     <div class="col-xl-6 col-lg-6 wow animated fadeInUp" data-wow-delay="0.2s">
                         <div class="service-one__single">
-                            <div class="shape1"><img src="{{ asset('/assets/img/shape/service-v1-shape1.png') }}" alt=""></div>
+                            <div class="shape1"><img src="{{ asset('/assets/img/shape/service-v1-shape1.png') }}" alt="" loading="lazy"></div>
                             <div class="service-one__single-inner">
                                 <div class="count-text">04</div>
                                 <div class="icon-box">
@@ -268,7 +268,7 @@ and restore safe humidity levels inside your home or business. </p>
                     <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".3s">
                         <div class="project-one__single">
                             <div class="project-one__single-img">
-                                <img src="{{ asset('/assets/img/project/project-v1-img1.jpg') }}" alt="">
+                                <img src="{{ asset('/assets/img/project/project-v1-img1.jpg') }}" alt="" loading="lazy">
                                 <div class="overlay-btn">
                                     <a class="img-popup" href="{{ url('assets/img/project/project-v1-img1.jpg') }}"><span
                                             class="icon-search-interface-symbol"></span></a>
@@ -288,7 +288,7 @@ and restore safe humidity levels inside your home or business. </p>
                     <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInDown" data-wow-delay=".3s">
                         <div class="project-one__single">
                             <div class="project-one__single-img">
-                                <img src="{{ asset('/assets/img/project/project-v1-img2.jpg') }}" alt="">
+                                <img src="{{ asset('/assets/img/project/project-v1-img2.jpg') }}" alt="" loading="lazy">
                                 <div class="overlay-btn">
                                     <a class="img-popup" href="{{ url('assets/img/project/project-v1-img2.jpg') }}"><span
                                             class="icon-search-interface-symbol"></span></a>
@@ -308,7 +308,7 @@ and restore safe humidity levels inside your home or business. </p>
                     <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".3s">
                         <div class="project-one__single">
                             <div class="project-one__single-img">
-                                <img src="{{ asset('/assets/img/project/project-v1-img3.jpg') }}" alt="">
+                                <img src="{{ asset('/assets/img/project/project-v1-img3.jpg') }}" alt="" loading="lazy">
                                 <div class="overlay-btn">
                                     <a class="img-popup" href="{{ url('assets/img/project/project-v1-img3.jpg') }}"><span
                                             class="icon-search-interface-symbol"></span></a>
@@ -328,7 +328,7 @@ and restore safe humidity levels inside your home or business. </p>
                     <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInDown" data-wow-delay=".3s">
                         <div class="project-one__single">
                             <div class="project-one__single-img">
-                                <img src="{{ asset('/assets/img/project/project-v1-img4.jpg') }}" alt="">
+                                <img src="{{ asset('/assets/img/project/project-v1-img4.jpg') }}" alt="" loading="lazy">
                                 <div class="overlay-btn">
                                     <a class="img-popup" href="{{ url('assets/img/project/project-v1-img4.jpg') }}"><span
                                             class="icon-search-interface-symbol"></span></a>
@@ -351,7 +351,7 @@ and restore safe humidity levels inside your home or business. </p>
 
         <!--Start Faq One-->
         <section class="faq-one">
-            <div class="shape1"><img src="{{ asset('/assets/img/shape/faq-v1-shape1.png') }}" alt=""></div>
+            <div class="shape1"><img src="{{ asset('/assets/img/shape/faq-v1-shape1.png') }}" alt="" loading="lazy"></div>
             <div class="container clearfix">
                 <div class="faq-one__inner">
                     <div class="big-title">
@@ -420,7 +420,7 @@ and restore safe humidity levels inside your home or business. </p>
 
         <!--Start Testimonials One-->
         <section class="testimonials-one">
-            <div class="shape1"><img src="{{ asset('/assets/img/shape/testimonials-v1-shape1.png') }}" alt=""></div>
+            <div class="shape1"><img src="{{ asset('/assets/img/shape/testimonials-v1-shape1.png') }}" alt="" loading="lazy"></div>
             <div class="container">
                 <div class="sec-title text-center">
                     <div class="sub-title">
@@ -515,7 +515,7 @@ and restore safe humidity levels inside your home or business. </p>
                                         <div class="testimonials-one__thumb-single ml0">
                                             <div class="testimonials-one__thumb-img">
                                                 <div class="inner">
-                                                    <img src="{{ asset('/assets/img/testimonial/testimonials-v1-img1.jpg') }}" alt="">
+                                                    <img src="{{ asset('/assets/img/testimonial/testimonials-v1-img1.jpg') }}" alt="" loading="lazy">
                                                 </div>
                                             </div>
 
@@ -530,7 +530,7 @@ and restore safe humidity levels inside your home or business. </p>
                                         <div class="testimonials-one__thumb-single">
                                             <div class="testimonials-one__thumb-img">
                                                 <div class="inner">
-                                                    <img src="{{ asset('/assets/img/testimonial/testimonials-v1-img2.jpg') }}" alt="">
+                                                    <img src="{{ asset('/assets/img/testimonial/testimonials-v1-img2.jpg') }}" alt="" loading="lazy">
                                                 </div>
                                             </div>
 
@@ -545,7 +545,7 @@ and restore safe humidity levels inside your home or business. </p>
                                         <div class="testimonials-one__thumb-single">
                                             <div class="testimonials-one__thumb-img">
                                                 <div class="inner">
-                                                    <img src="{{ asset('/assets/img/testimonial/testimonials-v1-img3.jpg') }}" alt="">
+                                                    <img src="{{ asset('/assets/img/testimonial/testimonials-v1-img3.jpg') }}" alt="" loading="lazy">
                                                 </div>
                                             </div>
 
@@ -564,11 +564,59 @@ and restore safe humidity levels inside your home or business. </p>
             </div>
         </section>
         <!--End Testimonials One-->
-        
-        
 
-        
-        
+
+        <!--Start Contact Section-->
+        <section class="contact-two contact-home">
+            <div class="container">
+                <div class="sec-title text-center">
+                    <div class="sub-title">
+                        <h5>CONTACT US</h5>
+                    </div>
+                    <h2>Get in Touch With Us</h2>
+                </div>
+                <div class="contact-two__inner">
+                    <div class="contact-two__inner-box">
+                        <form action="{{ asset('assets/inc/sendemail.php') }}" class="contact-page__form contact-form-validated">
+                            <div class="row">
+                                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
+                                    <div class="contact-page__input-box">
+                                        <input type="text" placeholder="Your Name*" name="name" required>
+                                    </div>
+                                </div>
+                                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
+                                    <div class="contact-page__input-box">
+                                        <input type="tel" placeholder="Your Phone*" name="phone" required>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-xl-12">
+                                    <div class="contact-page__input-box">
+                                        <input type="email" placeholder="Your Email*" name="email" required>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-xl-12">
+                                    <div class="contact-page__input-box">
+                                        <textarea name="message" placeholder="Your Message*" required></textarea>
+                                    </div>
+                                    <div class="contact-page__btn">
+                                        <button class="thm-btn" type="submit" data-loading-text="Please wait...">
+                                            <span class="txt">SEND MESSAGE</span>
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--End Contact Section-->
+
+
     <!-- footer area -->
     @include('frontend.includes.footers.footerOne')
     <!-- footer area end -->

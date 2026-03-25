@@ -43,7 +43,7 @@
                                                 <div class="product-box">
                                                     <div class="img-box">
                                                         <div class="inner">
-                                                            <img src="{{ asset('/assets/img/shop/cart-page-img1.jpg') }}" alt="#">
+                                                            <img src="{{ asset('/assets/img/shop/cart-page-img1.jpg') }}" alt="#" loading="lazy">
                                                         </div>
                                                         <div class="product-box-croos-icon">
                                                             <i class="fas fa-times"></i>

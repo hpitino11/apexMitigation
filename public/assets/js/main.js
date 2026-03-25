@@ -395,7 +395,6 @@
             let self = $(this);
 
             self.on("mouseenter", function () {
-                console.log($(this));
                 $(".project-three__box li").removeClass("active");
                 $(this).addClass("active");
             });
@@ -616,15 +615,9 @@
 
 
 
-    /* API event example (Not in use in this code) */
-    swiper.on("slideChange", function () {
-        console.log("slide changed");
-    });
+    swiper.on("slideChange", function () {});
 
-    swiper.on("keyPress", function (swiper, keyCode) {
-        console.log(swiper);
-        console.log("keyCode", keyCode);
-    });
+    swiper.on("keyPress", function (swiper, keyCode) {});
 
 
 

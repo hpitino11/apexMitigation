@@ -32,7 +32,7 @@
                         <div class="team-two__single">
                             <div class="team-two__single-img">
                                 <div class="inner">
-                                    <img src="{{ asset('/assets/img/team/team-v2-img1.jpg') }}" alt="">
+                                    <img src="{{ asset('/assets/img/team/team-v2-img1.jpg') }}" alt="" loading="lazy">
                                 </div>
 
                                 <div class="content-box">
@@ -59,7 +59,7 @@
                         <div class="team-two__single">
                             <div class="team-two__single-img">
                                 <div class="inner">
-                                    <img src="{{ asset('/assets/img/team/team-v2-img2.jpg') }}" alt="">
+                                    <img src="{{ asset('/assets/img/team/team-v2-img2.jpg') }}" alt="" loading="lazy">
                                 </div>
 
                                 <div class="content-box">
@@ -86,7 +86,7 @@
                         <div class="team-two__single">
                             <div class="team-two__single-img">
                                 <div class="inner">
-                                    <img src="{{ asset('/assets/img/team/team-v2-img3.jpg') }}" alt="">
+                                    <img src="{{ asset('/assets/img/team/team-v2-img3.jpg') }}" alt="" loading="lazy">
                                 </div>
 
                                 <div class="content-box">
@@ -113,7 +113,7 @@
                         <div class="team-two__single">
                             <div class="team-two__single-img">
                                 <div class="inner">
-                                    <img src="{{ asset('/assets/img/team/team-v2-img4.jpg') }}" alt="">
+                                    <img src="{{ asset('/assets/img/team/team-v2-img4.jpg') }}" alt="" loading="lazy">
                                 </div>
 
                                 <div class="content-box">
@@ -140,7 +140,7 @@
                         <div class="team-two__single">
                             <div class="team-two__single-img">
                                 <div class="inner">
-                                    <img src="{{ asset('/assets/img/team/team-v2-img5.jpg') }}" alt="">
+                                    <img src="{{ asset('/assets/img/team/team-v2-img5.jpg') }}" alt="" loading="lazy">
                                 </div>
 
                                 <div class="content-box">
@@ -167,7 +167,7 @@
                         <div class="team-two__single">
                             <div class="team-two__single-img">
                                 <div class="inner">
-                                    <img src="{{ asset('/assets/img/team/team-v2-img6.jpg') }}" alt="">
+                                    <img src="{{ asset('/assets/img/team/team-v2-img6.jpg') }}" alt="" loading="lazy">
                                 </div>
 
                                 <div class="content-box">

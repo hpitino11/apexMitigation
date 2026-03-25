@@ -31,7 +31,7 @@
                         <div class="col-xl-6 col-lg-6">
                             <div class="shop-details__top-img">
                                 <div class="inner">
-                                    <img src="{{ asset('/assets/img/shop/shop-details-img1.jpg') }}" alt="">
+                                    <img src="{{ asset('/assets/img/shop/shop-details-img1.jpg') }}" alt="" loading="lazy">
                                     <div class="shop-details__link">
                                         <a class="img-popup" href="{{ url('assets/img/shop/shop-details-img1.jpg') }}"><span
                                                 class="icon-search-interface-symbol"></span></a>
@@ -132,7 +132,7 @@
 
                     <div class="inner">
                         <div class="img-box">
-                            <img src="{{ asset('/assets/img/shop/shop-details-img2.jpg') }}" alt="">
+                            <img src="{{ asset('/assets/img/shop/shop-details-img2.jpg') }}" alt="" loading="lazy">
                         </div>
 
                         <div class="content-box">

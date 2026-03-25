@@ -31,7 +31,7 @@
                         <div class="blog-one__single">
                             <div class="blog-one__single-img">
                                 <div class="inner">
-                                    <img src="{{ asset('/assets/img/blog/blog-v1-img1.jpg') }}" alt="">
+                                    <img src="{{ asset('/assets/img/blog/blog-v1-img1.jpg') }}" alt="" loading="lazy">
                                     <div class="overlay-icon">
                                         <a href="#"><span class="icon-plus"></span></a>
                                     </div>
@@ -61,7 +61,7 @@
                         <div class="blog-one__single">
                             <div class="blog-one__single-img">
                                 <div class="inner">
-                                    <img src="{{ asset('/assets/img/blog/blog-v1-img2.jpg') }}" alt="">
+                                    <img src="{{ asset('/assets/img/blog/blog-v1-img2.jpg') }}" alt="" loading="lazy">
                                     <div class="overlay-icon">
                                         <a href="#"><span class="icon-plus"></span></a>
                                     </div>
@@ -91,7 +91,7 @@
                         <div class="blog-one__single">
                             <div class="blog-one__single-img">
                                 <div class="inner">
-                                    <img src="{{ asset('/assets/img/blog/blog-v1-img3.jpg') }}" alt="">
+                                    <img src="{{ asset('/assets/img/blog/blog-v1-img3.jpg') }}" alt="" loading="lazy">
                                     <div class="overlay-icon">
                                         <a href="#"><span class="icon-plus"></span></a>
                                     </div>
@@ -121,7 +121,7 @@
                         <div class="blog-one__single">
                             <div class="blog-one__single-img">
                                 <div class="inner">
-                                    <img src="{{ asset('/assets/img/blog/blog-v1-img4.jpg') }}" alt="">
+                                    <img src="{{ asset('/assets/img/blog/blog-v1-img4.jpg') }}" alt="" loading="lazy">
                                     <div class="overlay-icon">
                                         <a href="#"><span class="icon-plus"></span></a>
                                     </div>
@@ -151,7 +151,7 @@
                         <div class="blog-one__single">
                             <div class="blog-one__single-img">
                                 <div class="inner">
-                                    <img src="{{ asset('/assets/img/blog/blog-v1-img5.jpg') }}" alt="">
+                                    <img src="{{ asset('/assets/img/blog/blog-v1-img5.jpg') }}" alt="" loading="lazy">
                                     <div class="overlay-icon">
                                         <a href="#"><span class="icon-plus"></span></a>
                                     </div>
@@ -181,7 +181,7 @@
                         <div class="blog-one__single">
                             <div class="blog-one__single-img">
                                 <div class="inner">
-                                    <img src="{{ asset('/assets/img/blog/blog-v1-img6.jpg') }}" alt="">
+                                    <img src="{{ asset('/assets/img/blog/blog-v1-img6.jpg') }}" alt="" loading="lazy">
                                     <div class="overlay-icon">
                                         <a href="#"><span class="icon-plus"></span></a>
                                     </div>
