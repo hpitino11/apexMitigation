@@ -1,7 +1,7 @@
-# 🚧 Apex Mitigation — Website
+# 🚧 Apex Mitigation Website
 
 Production website built for **Apex Mitigation**, a Florida-based water damage mitigation and restoration company.  
-Developed as a freelance, full-stack solution focused on performance, clarity, and real-world business needs.
+Developed a full-stack solution focused on information and quotes for water mitigation services.
 
 ---
 
